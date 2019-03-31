@@ -21,7 +21,7 @@ include:
 * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
-
+https://github.com/1010101012101/desktop/commit/8dc6ad6b116b3efbe0fba244ccad85a2b8a51718
 * The use of sexualized language or imagery and unwelcome sexual attention or
 advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
